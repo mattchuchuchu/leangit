@@ -1,3 +1,5 @@
-git is useful.
+git was useful.
 
-add new words
+add new words.
+
+comments
